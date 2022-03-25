@@ -23,7 +23,7 @@
 
 # Numero de control: 19211750
 
-## Tijuana B.C. a 10 de Marzo de 2022
+## Tijuana B.C. a 24 de Marzo de 2022
 
 ### Los problemas que se me asignaron de C++ son los que se encuentran en las paginas 121 a 123 y son los siguientes: 
 Problema 1 Pagina 121
