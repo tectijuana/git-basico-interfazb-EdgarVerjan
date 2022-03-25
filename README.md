@@ -1,7 +1,3 @@
-![Logo Secretaria de Educacion Publica](https://th.bing.com/th/id/R.e306c06460c2c433ab7788ddf54f2ad2?rik=qGAyHdv%2fBpO7wQ&riu=http%3a%2f%2fwww.sep.gob.mx%2fwork%2fmodels%2fsep1%2fResource%2f8040%2f3%2fimages%2fLOGO+SEP(1).JPG&ehk=YbjvcvVHyvUz83U2NIpG73HMvuTchw8yFqwh9mHmC9c%3d&risl=&pid=ImgRaw&r=0)
-![Logo Tecnologico Nacional de Mexico](https://img.youtube.com/vi/Nv2SODarups/mqdefault.jpg)
-![Logo Instituto Tecnologico de Tijuana](https://th.bing.com/th/id/R.548f5ee82f2869aa40be52f8f55c5e56?rik=1BqG%2b7xsemc8tw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-6ySpm6qfBS0%2fUDcP4DMId5I%2fAAAAAAAAABU%2fUIXKCawa7qQ%2fs200%2flogo%2b2.png&ehk=2NJ6AHEbcj5v02wKGeVzO1WXMUNiwWJ3SGI%2btCoGUDo%3d&risl=&pid=ImgRaw&r=0)
-
 ## Subdirección académica
 ## Departamento de sistemas y computación
 
